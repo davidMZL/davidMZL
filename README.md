@@ -29,8 +29,3 @@
 - 💊 [MedicalFile](#) — Gestión de medicamentos en clínicas
 
 ---
-
-### 📈 GitHub Stats (opcional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidzea&show_icons=true&theme=radical" />
-</p>
