@@ -7,8 +7,7 @@
 
 - 🧠 Apasionado por la calidad de código y la optimización constante.
 - 🔭 Actualmente trabajando en proyectos de monitoreo en tiempo real.
-- 
-- 👨‍💻 Portafolio: [davidzea.dev](https://davidmzl.github.io/david-zea-portafolio/)
+- 👨‍💻 Portafolio: [david-zea](https://davidmzl.github.io/david-zea-portafolio/)
 - 📫 Contacto: david.zealeandres.dev@gmail.com
 
 ---
