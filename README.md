@@ -1,45 +1,60 @@
 <h1 align="center">Hola 👋, soy David Zea</h1>
-<h3 align="center">Frontend Developer especializado en Vue.js 2 & 3</h3>
+<h3 align="center">Desarrollador Frontend · Vue.js & React · TypeScript</h3>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🧠 Apasionado por la calidad del código y la mejora continua.
-- 🔭 Actualmente desarrollando plataformas de monitoreo en tiempo real.
-- 👨‍💻 Portafolio: [david-zea](https://davidmzl.github.io/david-zea-portafolio/)
+- 💼 4 años construyendo plataformas web en tiempo real para salud, seguros y e-commerce.
+- 🔄 Lideré la migración de plataformas de una aseguradora de Vue.js 2 a Vue.js 3 con TypeScript.
+- 🧪 Calidad primero: pruebas con Vitest/Jest, revisión de Pull Requests y despliegue seguro (Cloudflare, AWS CloudFront, CSP).
+- 👨‍💻 Portafolio: [davidmzl.github.io/david-zea-portafolio](https://davidmzl.github.io/david-zea-portafolio/)
 - 📫 Contacto: **david.zealeandres.dev@gmail.com**
 
 ---
 
 ### 🛠️ Tecnologías principales
 
-![Vue](https://img.shields.io/badge/-Vue.js-34495e?logo=vue.js&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-34495e?logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-34495e?logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/-Firebase-34495e?logo=firebase)
-![AWS](https://img.shields.io/badge/-AWS-34495e?logo=amazon-aws)
-![Leaflet](https://img.shields.io/badge/-Leaflet-34495e?logo=leaflet)
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/-Vue.js-34495e?logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/-Nuxt-34495e?logo=nuxt&logoColor=00DC82)
+![React](https://img.shields.io/badge/-React-34495e?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-34495e?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-34495e?logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-34495e?logo=tailwindcss&logoColor=06B6D4)
+![Leaflet](https://img.shields.io/badge/-Leaflet-34495e?logo=leaflet&logoColor=199900)
+
+**Testing**
+
+![Vitest](https://img.shields.io/badge/-Vitest-34495e?logo=vitest&logoColor=6E9F18)
+![Jest](https://img.shields.io/badge/-Jest-34495e?logo=jest&logoColor=C21325)
+
+**Cloud y despliegue**
+
+![AWS](https://img.shields.io/badge/-AWS-34495e)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-34495e?logo=cloudflare&logoColor=F38020)
+![Firebase](https://img.shields.io/badge/-Firebase-34495e?logo=firebase&logoColor=FFCA28)
 
 ---
 
 ### 📌 Proyectos destacados
 
-- 🔥 **Firecity** — Plataforma de gestión de incendios en tiempo real.  
-- 🚑 **AssistanceSOS** — Subasta y gestión de ambulancias con geolocalización.  
-- 💊 **MedicalFile** — Sistema para control de medicamentos y entregas clínicas.  
-- 🛠️ **RimacSOS & RimacSEV** — Migración de sistemas de Vuejs 2 a Vue.js 3 con TypeScript y mejoras de seguridad (AWS CloudFront, CSP).
+- 🛡️ **Plataformas de asistencia para una aseguradora**: migración de Vue.js 2 a Vue.js 3 con TypeScript, autenticación con AWS Cognito, mensajería en tiempo real con WebSockets y mejoras de seguridad (CloudFront, CSP).
+- 🔥 **Firecity**: monitoreo y gestión de incendios en tiempo real, con sensores vía AWS IoT Core y alertas por WhatsApp.
+- 🚑 **AssistanceSOS**: subasta y gestión de casos médicos con geolocalización de ambulancias.
+- 🚗 **assistAuto**: automatización de asistencia vehicular en React y Tailwind CSS.
 
 ---
 
 ### 💼 Trabajo principalmente en GitLab
 
-Muchos de mis proyectos están en **GitLab** por requerimientos corporativos y privacidad.
+La mayoría de mis proyectos profesionales están en **GitLab** y son privados por requerimientos corporativos.
 
-🔗 Puedes ver mis contribuciones aquí: [gitlab.com/davidMZL](https://gitlab.com/davidMZL)
+🔗 Mis contribuciones: [gitlab.com/davidMZL](https://gitlab.com/davidMZL)
 
 ---
 
 ### 📄 CV
 
-Puedes [descargar mi CV en PDF aquí](https://davidmzl.github.io/david-zea-portafolio/docs/cv.pdf)
+[Descargar mi CV en PDF](https://davidmzl.github.io/david-zea-portafolio/docs/cv.pdf)
